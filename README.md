@@ -2,10 +2,11 @@
 
 Crear una página web para el mantenimiento de una base de datos de un concesionario. La página principal del concesionario tendrá un menú (menu.php) con las siguientes opciones:
     • Alta de coche (alta.php)
+    * Menu principal (menu.php)
     • Baja de coche (baja.php)
     • Consulta de coche (consulta.php)
     • Actualización de coche (actualización.php)
-    • Listado de coches (listado.php)
+    • Conexion a la base datos (conexion.php)
 
 La estructura de la base de datos CONCESIONARIO es la siguiente:
 Tabla COCHES
